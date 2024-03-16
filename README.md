@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Houda</h1>
-<h3 align="center">A front-end enthusiast from Morocco</h3>
+<h3 align="center">A front-end dev enthusiast from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/s4X1d5_CR9MAAAAM/lalaartwork-lala.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymoush28&label=Profile%20views&color=0e75b6&style=flat" alt="anonymoush28" /> </p>
